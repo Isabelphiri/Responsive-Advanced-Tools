@@ -12,6 +12,7 @@ h1,
 h2,
 h3 {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
@@ -30,6 +31,7 @@ h3 {
 p {
   font-size: 18px;
   line-height: 1.5;
+  padding: 20px 0;
   
 }
 
@@ -111,6 +113,12 @@ p {
   }
   .secondary-link {
     font-size: 14px;
+  }
+  .primary-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+    font-size: 18px;
   }
 
 }
